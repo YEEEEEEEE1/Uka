@@ -1,0 +1,25 @@
+{
+  "name": "commandhandler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adit": "^1.0.11",
+    "ascii-table": "^0.0.9",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.2",
+    "interaction": "^0.0.1",
+    "moderation": "^1.2.3",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "permission": "^1.1.0",
+    "permissions": "^0.1.0",
+    "put": "^0.0.6"
+  }
+}
